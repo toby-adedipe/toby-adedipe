@@ -6,21 +6,14 @@
    <a href="mailto:adedipe.toby@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-adedipe.toby@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adedipe.toby@gmail.com"></a>
 </p>
 
-<h3 align="left"> I'm a software developer with 3+ years of experience in front-end development of web/mobile applications and developing back-end API's in a variety of domains and tech stacks.
+<h4 align="left"> I'm a software developer with 3+ years of experience in front-end development of web/mobile applications and developing back-end API's in a variety of domains and tech stacks.
 My strongest skills are in React, React-Native, and Node.
-I have experience dealing with the Google Cloud Platform using products like Firebase and the Google app engine. </h3>
+I have experience dealing with the Google Cloud Platform using products like Firebase and the Google app engine. </h4>
 
-<!--
-**toby-adedipe/toby-adedipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I’m currently working on:** building playorswipe.com, a movies rating website.
+- 🌱 **I’m currently learning:** Typescript.
+- 👯 **I’m looking to collaborate on:** web/mobile apps.
+- 💬 **Ask me about:** React and React-Native.
+- 😄 **Pronouns:** He/Him.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toby-adedipe&theme=midnight-purple&show_icons=true)

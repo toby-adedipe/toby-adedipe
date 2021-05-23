@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="left"> Hey there, I'm Tobi 👋 </h1>
 
+<p align="left">
+   <a href="https://www.notion.so/Hi-I-m-Adedipe-Oluwatobi-f6f95453e61d4a1fa52267e028a88dcd"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://www.notion.so/Hi-I-m-Adedipe-Oluwatobi-f6f95453e61d4a1fa52267e028a88dcd"></a>
+   <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
+   <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
+   <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
+   <a href="https://medium.com/@dewith"><img alt="Medium" src="https://img.shields.io/badge/-@dewith-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@dewith"></a>
+</p>
 <!--
 **toby-adedipe/toby-adedipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

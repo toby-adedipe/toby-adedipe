@@ -9,7 +9,7 @@
 <h4 align="left"> With over 3 years of experience in React Native development, I have built and maintained mobile applications that have positively impacted thousands of users. At Gavel, I led the development of the messaging feature, new home screen, and video download feature using Typescript, React Native, Redis, Node.js, and socket.io. At Portee, I developed two MVPs for iOS and Android using React Native, Redux, GraphQL, and Firebase. I have a solid understanding of the latest mobile development trends and technologies and have a proven track record of optimizing app performance, reducing load time by 20%. As a skilled software developer, I am passionate about creating products that make a difference in people's lives. </h4>
 
 - 🔭 **I’m currently working on:** building caden, A Writing assistant that helps users generate responses to their emails. It uses a combination of NLP and Machine learning to generate the responses. The idea is to study the email you are replying to and use this to generate a response..
-- 🌱 **I’m currently learning:** .
+- 🌱 **I’m currently learning:** Flutter/Dart.
 - 👯 **I’m looking to collaborate on:** web/mobile apps.
 - 💬 **Ask me about:** React and React-Native.
 - 😄 **Pronouns:** He/Him.
